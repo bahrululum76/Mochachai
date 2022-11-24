@@ -1,0 +1,20 @@
+{
+  "name": "moca",
+  "version": "1.0.0",
+  "description": "testtgs",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx mocha"
+  },
+  "keywords": [
+    "api",
+    "auto"
+  ],
+  "author": "bahrul",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.1.0",
+    "supertest": "^6.3.1"
+  }
+}
